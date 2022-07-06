@@ -9,9 +9,12 @@ My project is the “Smart Lamp with IoT”, The smart lamp has serval features 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My first Milestone is the feature of temperature and humidity sensing. (Show picture of crazy number) as you can see, the numbers are a bit unreasonable. I was able to over come this problem by figuring out what is triggering the wrong numbers: Is it the hardware? The Arduino coding? The Cayenne settings? By testing the code and switching the hardware, I was able to target the problem - the hardware. It turns out the batteries were not enough to support the chip. The solution was to connect the chip to my laptop as a battery source instead. The numbers were able to came back to a normal range.
+My first Milestone is the feature of temperature and humidity sensing. (Show my laptop) As you can see, the numbers are a bit unreasonable. I was able to over come this problem by figuring out what is triggering the wrong numbers: Is it the hardware? The Arduino coding? The Cayenne settings? By testing the code and switching the hardware, I was able to target the problem - the hardware. It turns out the batteries were not enough to support the chip. The solution was to connect the chip to my laptop as a battery source instead. The numbers were able to came back to a normal range.
+
 However, following the solution of the problem is another problem, the temperature and humidity number was too low, with temperature being 40 and humidity being 20. I was able to figure out that the temperature is measured in Celsius, and humidity and temperature number was swapped. 
+
 Now all the numbers are working normal. 
+
 My next step is to figure out a custom button of rainbow colors.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}

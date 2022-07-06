@@ -1,4 +1,4 @@
-﻿# Smart Lamp with IoT Technology /Title Goes Here
+﻿# Hilary's Intermediate Project/ Smart Lamp with IoT
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |

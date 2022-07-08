@@ -34,4 +34,4 @@ Hi my name is Hilary, I am a rising junior from Mills High School. My project is
 
 My next step is to start on my intermediate project - Smart Lamp wit IoT
 
-[![Starter Project](https://www.youtube.com/watch?v=L7IjhdDTc64&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}
+[![Starter Project]](https://www.youtube.com/watch?v=L7IjhdDTc64&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}

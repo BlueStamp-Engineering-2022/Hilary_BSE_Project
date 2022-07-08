@@ -37,4 +37,4 @@ My next step is to figure out a custom button of rainbow colors.
 Hi my name is Hilary, I am a rising junior from Mills High School. My project is Simon says, it is a mini game in which the player has to follow the machines’s buttons. The project includes soldering components to the front and back board, hand-screwing buttons, and placing in the battery. I enjoyed the process of soldering, and how this skill trains my hand to be steady and precise. A problem I had was this battry part. Because of the error I made in my soldering, the battery wasn't able to connect. I was able to solve this problem by bending the connector. 
 
 My next step is to start on my intermediate project - Smart Lamp wit IoT
-[![First Milestone](https://user-images.githubusercontent.com/108752010/178079108-f4e08ce0-2018-4eb0-a547-acb8eb080d7e.png)](https://www.youtube.com/watch?v=L7IjhdDTc64&ab_channel=BlueStampEng "First Milestone")
+[![First Milestone](https://user-images.githubusercontent.com/108752010/178080104-45718da7-fc1f-4e56-b060-e3917ab367a3.jpeg)](https://www.youtube.com/watch?v=L7IjhdDTc64&ab_channel=BlueStampEng "First Milestone")

@@ -31,7 +31,7 @@ Now all the numbers are working normal.
 
 My next step is to figure out a custom button of rainbow colors.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=jqHe9Xb36Eg&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}
+[![First Milestone](https://user-images.githubusercontent.com/108752010/178080431-8f142c4e-17eb-47e7-bc37-a6b94c5b10f7.jpeg)](https://www.youtube.com/watch?v=jqHe9Xb36Eg&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}
 
 # Starter Project
 Hi my name is Hilary, I am a rising junior from Mills High School. My project is Simon says, it is a mini game in which the player has to follow the machines’s buttons. The project includes soldering components to the front and back board, hand-screwing buttons, and placing in the battery. I enjoyed the process of soldering, and how this skill trains my hand to be steady and precise. A problem I had was this battry part. Because of the error I made in my soldering, the battery wasn't able to connect. I was able to solve this problem by bending the connector. 

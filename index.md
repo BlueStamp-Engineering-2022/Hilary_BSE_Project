@@ -13,7 +13,7 @@ Hi, my name is Hilary, I am a rising junior from Mills High School, and my proje
 
 My third Milestone is the process of putting everything together and finishing the project. Instead of keeping the breadboard as the base, I decided to solder all the components on a circuit board. After that is done, I had to build the wooden box part. I used the application Fusion 360  for the modeling, 3d printing, and laser cutting. 
 
-That is my last step of the project!
+My last step is to work on modification on my custom buttons - the rainbow light, and fire light. 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 

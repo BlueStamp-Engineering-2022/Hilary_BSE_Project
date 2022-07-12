@@ -6,7 +6,7 @@ My project is the “Smart Lamp with IoT”, The smart lamp has serval features 
 |:--:|:--:|:--:|:--:|
 | Hilary K | Mills High School | Computer Science | Incoming Junior
 
-<img src="https://user-images.githubusercontent.com/108752010/178612288-b9136fd4-cb0e-4718-b4b0-2e7094008912.JPG" style="width:300px;"/>
+<img src="https://user-images.githubusercontent.com/108752010/178612288-b9136fd4-cb0e-4718-b4b0-2e7094008912.JPG" style="width:350px;"/>
   
 # Final Milestone
 Hi, my name is Hilary, I am a rising junior from Mills High School, and my project is the “Smart Lamp with IoT”.

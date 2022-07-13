@@ -15,7 +15,7 @@ My third Milestone is the process of putting everything together and finishing t
 
 My last step is to work on modification on my custom buttons - the rainbow light, and fire light. 
 
-[![Final Milestone](https://user-images.githubusercontent.com/108752010/178611698-69fe3fcc-8a26-4a75-8c77-b7e4e0a1a461.png)](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://user-images.githubusercontent.com/108752010/178611698-69fe3fcc-8a26-4a75-8c77-b7e4e0a1a461.png)](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
 # Second Milestone
 Hi, my name is Hilary, I am a rising junior from Mills High School, and my project is the “Smart Lamp with IoT”.
@@ -24,7 +24,7 @@ My second Milestone is the custom button that allows the LED lights to show rain
 
 My next step is to assemble the board and chip, and start on 3D printing and the outer structure. 
 
-[![Third Milestone](https://user-images.githubusercontent.com/108752010/178610236-624f47c4-310c-4763-8c03-d858d7c9a089.jpeg)](https://www.youtube.com/watch?v=ynWwDvlZqUM&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}
+[![Third Milestone](https://user-images.githubusercontent.com/108752010/178610236-624f47c4-310c-4763-8c03-d858d7c9a089.jpeg)](https://www.youtube.com/watch?v=ynWwDvlZqUM&ab_channel=BlueStampEng)
 
 # First Milestone
 Hi, my name is Hilary, I am a rising junior from Mills High School.

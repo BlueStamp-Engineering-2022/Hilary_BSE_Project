@@ -48,3 +48,16 @@ Hi my name is Hilary, I am a rising junior from Mills High School. My project is
 
 My next step is to start on my intermediate project - Smart Lamp wit IoT
 [![First Milestone](https://user-images.githubusercontent.com/108752010/178080104-45718da7-fc1f-4e56-b060-e3917ab367a3.jpeg)](https://www.youtube.com/watch?v=L7IjhdDTc64&ab_channel=BlueStampEng "First Milestone")
+
+# Galary
+Pictures of the Smart Lamp with IOT
+<p>
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 22 12 PM" src="https://user-images.githubusercontent.com/108752010/178846982-1fcc484d-9b31-4350-a7c6-1df7207ee9cd.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 10 PM" src="https://user-images.githubusercontent.com/108752010/178850031-009f3928-b305-40d0-86ed-48a72397428e.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 19 PM" src="https://user-images.githubusercontent.com/108752010/178849542-cc13456a-b1d1-4e74-9a82-c6fe09aba282.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 28 PM" src="https://user-images.githubusercontent.com/108752010/178849549-1aae16b3-00bd-4ddd-9be4-8b005d64f697.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 42 06 PM" src="https://user-images.githubusercontent.com/108752010/178849558-df00fb0a-8fc8-47ab-8fef-9bfe2249a9a1.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 50 41 PM" src="https://user-images.githubusercontent.com/108752010/178850288-65ea2a5d-af5e-4c9d-8b2e-cd366f92da9c.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 42 57 PM" src="https://user-images.githubusercontent.com/108752010/178849536-ebfd432e-1abe-4493-80a0-212b3517c7e2.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 55 PM" src="https://user-images.githubusercontent.com/108752010/178849556-aa3fbb80-1951-421e-8cc5-84645e01a100.png">
+</p>

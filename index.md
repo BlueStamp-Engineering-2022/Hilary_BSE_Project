@@ -60,4 +60,6 @@ Pictures of the Smart Lamp with IOT
   <img width="500" alt="Screen Shot 2022-07-13 at 3 50 41 PM" src="https://user-images.githubusercontent.com/108752010/178850288-65ea2a5d-af5e-4c9d-8b2e-cd366f92da9c.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 42 57 PM" src="https://user-images.githubusercontent.com/108752010/178849536-ebfd432e-1abe-4493-80a0-212b3517c7e2.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 30 55 PM" src="https://user-images.githubusercontent.com/108752010/178849556-aa3fbb80-1951-421e-8cc5-84645e01a100.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 54 55 PM" src="https://user-images.githubusercontent.com/108752010/178850798-93587098-29ff-431a-aea9-8c892d75d2c6.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 53 38 PM" src="https://user-images.githubusercontent.com/108752010/178850810-cea02b9e-b93d-4898-aac5-8ccd94e33c36.png">
 </p>

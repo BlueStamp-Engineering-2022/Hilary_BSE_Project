@@ -52,14 +52,17 @@ My next step is to start on my intermediate project - Smart Lamp wit IoT
 # Galary
 Pictures of the Smart Lamp with IOT
 <p>
+  <img width="500" alt="Screen Shot 2022-07-14 at 11 05 23 AM" src="https://user-images.githubusercontent.com/108752010/179052247-ecc68d24-3bdd-4547-b46a-b5c1c623ce61.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 22 12 PM" src="https://user-images.githubusercontent.com/108752010/178846982-1fcc484d-9b31-4350-a7c6-1df7207ee9cd.png">
+  <img width="500" alt="Screen Shot 2022-07-14 at 11 05 30 AM" src="https://user-images.githubusercontent.com/108752010/179052154-3a21c12f-d9fc-43cf-8226-b3800764add3.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 30 10 PM" src="https://user-images.githubusercontent.com/108752010/178850031-009f3928-b305-40d0-86ed-48a72397428e.png">
-  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 19 PM" src="https://user-images.githubusercontent.com/108752010/178849542-cc13456a-b1d1-4e74-9a82-c6fe09aba282.png">
-  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 28 PM" src="https://user-images.githubusercontent.com/108752010/178849549-1aae16b3-00bd-4ddd-9be4-8b005d64f697.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 42 06 PM" src="https://user-images.githubusercontent.com/108752010/178849558-df00fb0a-8fc8-47ab-8fef-9bfe2249a9a1.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 50 41 PM" src="https://user-images.githubusercontent.com/108752010/178850288-65ea2a5d-af5e-4c9d-8b2e-cd366f92da9c.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 42 57 PM" src="https://user-images.githubusercontent.com/108752010/178849536-ebfd432e-1abe-4493-80a0-212b3517c7e2.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 30 55 PM" src="https://user-images.githubusercontent.com/108752010/178849556-aa3fbb80-1951-421e-8cc5-84645e01a100.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 19 PM" src="https://user-images.githubusercontent.com/108752010/178849542-cc13456a-b1d1-4e74-9a82-c6fe09aba282.png">
+  <img width="500" alt="Screen Shot 2022-07-13 at 3 30 28 PM" src="https://user-images.githubusercontent.com/108752010/178849549-1aae16b3-00bd-4ddd-9be4-8b005d64f697.png">
+   <img width="500" alt="Screen Shot 2022-07-14 at 11 05 13 AM" src="https://user-images.githubusercontent.com/108752010/179052151-1b85541f-c85b-4851-bdf2-ef1d27cb735b.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 54 55 PM" src="https://user-images.githubusercontent.com/108752010/178850798-93587098-29ff-431a-aea9-8c892d75d2c6.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 53 38 PM" src="https://user-images.githubusercontent.com/108752010/178850810-cea02b9e-b93d-4898-aac5-8ccd94e33c36.png">
 </p>

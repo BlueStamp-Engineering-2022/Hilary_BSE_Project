@@ -49,7 +49,7 @@ Hi my name is Hilary, I am a rising junior from Mills High School. My project is
 My next step is to start on my intermediate project - Smart Lamp wit IoT
 [![First Milestone](https://user-images.githubusercontent.com/108752010/178080104-45718da7-fc1f-4e56-b060-e3917ab367a3.jpeg)](https://www.youtube.com/watch?v=L7IjhdDTc64&ab_channel=BlueStampEng "First Milestone")
 
-# Galary
+# Gallary
 Pictures of the Smart Lamp with IOT
 <p>
   <img width="500" alt="Screen Shot 2022-07-14 at 11 05 23 AM" src="https://user-images.githubusercontent.com/108752010/179052247-ecc68d24-3bdd-4547-b46a-b5c1c623ce61.png">

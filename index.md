@@ -57,7 +57,7 @@ Pictures of the Smart Lamp with IOT
 <p>
   <img width="500" alt="Screen Shot 2022-07-14 at 11 05 23 AM" src="https://user-images.githubusercontent.com/108752010/179052247-ecc68d24-3bdd-4547-b46a-b5c1c623ce61.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 22 12 PM" src="https://user-images.githubusercontent.com/108752010/178846982-1fcc484d-9b31-4350-a7c6-1df7207ee9cd.png">
-  <img width="500" alt="Screen Shot 2022-07-14 at 11 05 30 AM" src="https://user-images.githubusercontent.com/108752010/179052154-3a21c12f-d9fc-43cf-8226-b3800764add3.png">
+  <img width="500" alt="Screen Shot 2022-07-14 at 11 05 30 AM" src="https://user-images.githubusercontent.com/108752010/180058739-c456e7c8-aa62-42f5-8611-fcb8a79af655.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 30 10 PM" src="https://user-images.githubusercontent.com/108752010/178850031-009f3928-b305-40d0-86ed-48a72397428e.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 42 06 PM" src="https://user-images.githubusercontent.com/108752010/178849558-df00fb0a-8fc8-47ab-8fef-9bfe2249a9a1.png">
   <img width="500" alt="Screen Shot 2022-07-13 at 3 50 41 PM" src="https://user-images.githubusercontent.com/108752010/178850288-65ea2a5d-af5e-4c9d-8b2e-cd366f92da9c.png">

@@ -10,6 +10,9 @@ My project is the “Smart Lamp with IoT”, The smart lamp has serval features 
   <img src="https://user-images.githubusercontent.com/108752010/178612288-b9136fd4-cb0e-4718-b4b0-2e7094008912.JPG" style="width:350px"/> 
 </p> 
 
+# Project Picture
+<img width="1050" alt="Screen Shot 2022-07-20 at 11 41 06 AM" src="https://user-images.githubusercontent.com/108752010/180058310-ae45291a-e9ac-4c6c-ac86-6008bd644f01.png">
+
 # Final Milestone
 Hi, my name is Hilary, I am a rising junior from Mills High School, and my project is the “Smart Lamp with IoT”.
 

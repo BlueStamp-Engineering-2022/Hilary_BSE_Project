@@ -1,6 +1,6 @@
 ﻿# Hilary's BSE Project/ Smart Lamp with IoT
 Hi, my name is Hilary, I am a rising junior from Mills High School.
-My project is the “Smart Lamp with IoT”, The smart lamp has serval features such as color changing, temperature and humidity sensing, intruder and light sensing, and emergency messages sending.
+My project is the “Smart Lamp with IoT”, The smart lamp has serval features such as color changing, temperature and humidity sensing, intruder and light sensing, and emergency message sending.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -18,14 +18,14 @@ Hi, my name is Hilary, I am a rising junior from Mills High School, and my proje
 
 My third Milestone is the process of putting everything together and finishing the project. Instead of keeping the breadboard as the base, I decided to solder all the components on a circuit board. After that is done, I had to build the wooden box part. I used the application Fusion 360  for the modeling, 3d printing, and laser cutting. 
 
-My last step is to work on modification on my custom buttons - the rainbow light, and fire light. 
+My last step is to work on modifications that are my custom buttons - the rainbow light, and fire light. 
 
 [![Final Milestone](https://user-images.githubusercontent.com/108752010/178611698-69fe3fcc-8a26-4a75-8c77-b7e4e0a1a461.png)](https://www.youtube.com/watch?v=ynWwDvlZqUM&ab_channel=BlueStampEng)
 
 # Second Milestone
 Hi, my name is Hilary, I am a rising junior from Mills High School, and my project is the “Smart Lamp with IoT”.
 
-My second Milestone is the custom button that allows the LED lights to show rainbow colors. I used the given rainbow code from the examples files in Arduino. The problem is that only one of the LED lights will show the rainbow color. My first step to debug it was to figure out if it is the code, the library, or the lights that didn’t work. By testing out the rainbow light’s code on its own, and comparing the combined code with the project, I was able to figure out that the library and the lights worked, so the problem was on the code. The next step was to figure out if the function of the button didn’t work or the given coded wasn’t coded correctly to fit in the project code. By testing the function in the console, it proves that the function works, the problem occurs at the process of combining the two codes. I found out the coding error is in the loop process. Instead of looping the rainbow function individually, I should loop it in an If Else statement that will run after other functions are tested false. Now my button is able to work and show rainbow colors. 
+My second Milestone is the custom button that allows the LED lights to show rainbow colors. I used the given rainbow code from the examples files in Arduino. The problem is that only one of the LED lights will show the rainbow color. My first step to debug it was to figure out if it is the code, the library, or the lights that didn’t work. By testing out the rainbow light’s code on its own, and comparing the combined code with the project, I was able to figure out that the library and the lights worked, so the problem was on the code. The next step was to figure out if the function of the button didn’t work or the given coded wasn’t coded correctly to fit in the project code. By testing the function in the console, it proves that the function works, the problem occurs at the process of combining the two code files. I found out the coding error is in the loop process. Instead of looping the rainbow function individually, I should loop it in an If Else statement that will run after other functions are tested false. Now my button is able to work and show rainbow colors. 
 
 My next step is to assemble the board and chip, and start on 3D printing and the outer structure. 
 
@@ -34,13 +34,13 @@ My next step is to assemble the board and chip, and start on 3D printing and the
 # First Milestone
 Hi, my name is Hilary, I am a rising junior from Mills High School.
 
-My project is the “Smart Lamp with IoT”, The smart lamp has serval features such as color changing, temperature and humidity sensing, intruder and light sensing, and emergency messages sending.
+My project is the “Smart Lamp with IoT”, The smart lamp has serval features such as color changing, temperature and humidity sensing, intruder and light sensing, and emergency message sending.
 
 My first Milestone is the feature of temperature and humidity sensing. (Show my laptop) As you can see, the numbers are a bit unreasonable. I was able to over come this problem by figuring out what is triggering the wrong numbers: Is it the hardware? The Arduino coding? The Cayenne settings? By testing the code and switching the hardware, I was able to target the problem - the hardware. It turns out the batteries were not enough to support the chip. The solution was to connect the chip to my laptop as a battery source instead. The numbers were able to came back to a normal range.
 
-However, following the solution of the problem is another problem, the temperature and humidity number was too low, with temperature being 40 and humidity being 20. I was able to figure out that the temperature is measured in Celsius, and humidity and temperature number was swapped. 
+However, following the solution of the problem is another problem, the temperature and humidity number was too low, with temperature being 40 degrees and humidity being 20 percent. I was able to figure out that the temperature is measured in Celsius, and humidity and temperature number was swapped. 
 
-Now all the numbers are working normal. 
+Now all the numbers are working correct. 
 
 My next step is to figure out a custom button of rainbow colors.
 

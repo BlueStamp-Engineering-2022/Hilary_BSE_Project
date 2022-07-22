@@ -4,7 +4,7 @@ My project is the “Smart Lamp with IoT”, The smart lamp has serval features 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Hilary K | Mills High School | Computer Science | Incoming Junior
+| Hilary | Mills High School | Computer Science | Incoming Junior
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/108752010/178612288-b9136fd4-cb0e-4718-b4b0-2e7094008912.JPG" style="width:350px"/> 
